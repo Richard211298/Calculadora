@@ -9,8 +9,8 @@ import tkinter
 import math
 
 #Felix Romero Ricardo
-#4ev19
 #NOTA:La tasa de interes Simple y Compuesta por el momento solo resuelven sencillas,falta agregar funcion  periodos y ajuste
+#Quitar codigo repetitivo
 #Agregar ecuacion de valor
 #Agregar Tasas equivalente
 #Agregar conversor de tasas 
